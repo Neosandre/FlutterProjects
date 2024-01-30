@@ -1,6 +1,6 @@
 # jinx
 
-A new Flutter project.
+is a social media app that allow users to post anonymously it had over 1000 users when it was on Google play store and Apple store
 
 ## Getting Started
 
