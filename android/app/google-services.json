@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "735318254098",
+    "project_id": "jinx-ca0c7",
+    "storage_bucket": "jinx-ca0c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735318254098:android:be14b33f75861b0aaeaecb",
+        "android_client_info": {
+          "package_name": "com.jinxmenow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735318254098-vtrsfdiab0n8tpua00iada92g6jis98b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jinxmenow",
+            "certificate_hash": "198ad1e83bb2086d246e34d20d3f87b77a406ca8"
+          }
+        },
+        {
+          "client_id": "735318254098-v7hvddtir8nv592rv4iem4qcsp9l5r4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOIwi4nyLFZdWK9B5W4aTNCPmgMWyqSHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735318254098-v7hvddtir8nv592rv4iem4qcsp9l5r4e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "735318254098-bac53pf079pikf3qace37u9a581jqc9o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jinx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
