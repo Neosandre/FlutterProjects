@@ -8,7 +8,11 @@ is a social media app that allow users to post anonymously it had over 1000 user
 ![alt text](https://github.com/Neosandre/flutterProjectJinx/blob/main/screenshots/Screenshot%202024-01-30%20at%2004.35.36.png)
 ![alt text](https://github.com/Neosandre/flutterProjectJinx/blob/main/screenshots/Screenshot%202024-01-30%20at%2004.35.55.png)
 
-![Watch the video](https://github.com/Neosandre/flutterProjectJinx/blob/main/screenshots/RPReplay_Final1664074430.mov)
+
+
+https://github.com/Neosandre/flutterProjectJinx/assets/98852419/7cc70639-3d6b-415e-9f80-af68758a4090
+
+
 
 
 ![alt text](https://github.com/Neosandre/flutterProjectJinx/blob/main/screenshots/IMG_6887.PNG)
