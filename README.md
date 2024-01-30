@@ -5,7 +5,8 @@ is a social media app that allow users to post anonymously it had over 1000 user
 ## Getting Started
 
 ![alt text](https://github.com/Neosandre/flutterProjectJinx/blob/main/screenshots/Screenshot%202024-01-30%20at%2004.35.20.png)
-
+![alt text](https://github.com/Neosandre/flutterProjectJinx/blob/main/screenshots/Screenshot%202024-01-30%20at%2004.35.36.png)
+![alt text](https://github.com/Neosandre/flutterProjectJinx/blob/main/screenshots/Screenshot%202024-01-30%20at%2004.35.55.png)
 
 This project is a starting point for a Flutter application.
 
